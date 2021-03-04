@@ -1,0 +1,13 @@
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\bin\Debug\netcoreapp3.1\Csharp_arrays_class.exe
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\bin\Debug\netcoreapp3.1\Csharp_arrays_class.deps.json
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\bin\Debug\netcoreapp3.1\Csharp_arrays_class.runtimeconfig.json
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\bin\Debug\netcoreapp3.1\Csharp_arrays_class.runtimeconfig.dev.json
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\bin\Debug\netcoreapp3.1\Csharp_arrays_class.dll
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\bin\Debug\netcoreapp3.1\Csharp_arrays_class.pdb
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.csprojAssemblyReference.cache
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.AssemblyInfoInputs.cache
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.AssemblyInfo.cs
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.csproj.CoreCompileInputs.cache
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.dll
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.pdb
+C:\Users\Enov8\source\repos\Csharp_arrays_class\Csharp_arrays_class\obj\Debug\netcoreapp3.1\Csharp_arrays_class.genruntimeconfig.cache
